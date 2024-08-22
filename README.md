@@ -5,6 +5,7 @@
 <p align="left">Me chamo Gabriel Bezerra, estudante de analise e desenvolvimento de sistemas, desenvolvedor full-stack apaixonado pelo desenvolvimento front-end. Possuo habilidade em ReactJS e estou pegando gosto pelo VueJs também. Sou fã de CSS e hoje consigo ter um bom rendimento com CSS puro, Sass, styled-components e agora estou me aventurando no TailwindCSS</p>
 
 <p align="left">Atualmente faço parte da Digital Growth como desenvolvedor front-end no melhor time de devs do mundo!</p>
+
 ###
 
 <h2 align="left">Techs</h2>
