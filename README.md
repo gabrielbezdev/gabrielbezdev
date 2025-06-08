@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="60" alt="postman logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/HeidiSQL/HeidiSQL/master/heidi_icon.png" height="60" alt="heidisql logo" />
+  <img src="[https://raw.githubusercontent.com/HeidiSQL/HeidiSQL/master/heidi_icon.png](https://brandfetch.com/heidisql.com?view=library&library=default)" height="60" alt="heidisql logo" />
 </div>
 
 ###
