@@ -2,9 +2,11 @@
 
 ###
 
-<p align="left">Me chamo Gabriel Bezerra, estudante de analise e desenvolvimento de sistemas, desenvolvedor full-stack apaixonado pelo desenvolvimento front-end. Possuo habilidade em ReactJS e estou pegando gosto pelo VueJs também. Sou fã de CSS e hoje consigo ter um bom rendimento com CSS puro, Sass, styled-components e agora estou me aventurando no TailwindCSS</p>
+<p align="left">Me chamo Gabriel Bezerra, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor full-stack apaixonado pelo desenvolvimento front-end.</p>
 
-<p align="left">Atualmente atuo como desenvolvedor full-stack pleno!</p>
+<p align="left">Possuo **alta proficiência em Front-end**, com habilidades sólidas em ReactJS e um crescente interesse e experiência em VueJS. Sou entusiasta de CSS, com bom rendimento em CSS puro, Sass, styled-components, e atualmente me aventurando no TailwindCSS.</p>
+
+<p align="left">Atualmente, atuo como desenvolvedor full-stack pleno, aplicando meu conhecimento em diversas camadas de aplicações.</p>
 
 ###
 
@@ -13,21 +15,21 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 </div>
 
 ###
