@@ -1,6 +1,8 @@
-<h2 align="left">About me</h2>
+<h2 align="left"> 🧑🏻‍💻 Gabriel Bezerra</h2>
 
 ###
+
+**`Desenvolvedor Full Stack`**
 
 <p align="left">
 Me chamo <strong>Gabriel Bezerra</strong>, sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e desenvolvedor <strong>full-stack</strong> apaixonado por criar soluções eficientes e experiências digitais de qualidade.
