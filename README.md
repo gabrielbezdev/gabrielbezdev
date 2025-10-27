@@ -2,11 +2,17 @@
 
 ###
 
-<p align="left">Me chamo Gabriel Bezerra, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor full-stack apaixonado pelo desenvolvimento front-end.</p>
+<p align="left">
+Me chamo <strong>Gabriel Bezerra</strong>, sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e desenvolvedor <strong>full-stack</strong> apaixonado por criar soluções eficientes e experiências digitais de qualidade.
+</p>
 
-<p align="left">Possuo **alta proficiência em Front-end**, com habilidades sólidas em ReactJS e um crescente interesse e experiência em VueJS. Sou entusiasta de CSS, com bom rendimento em CSS puro, Sass, styled-components, e atualmente me aventurando no TailwindCSS.</p>
+<p align="left">
+Trabalho com <strong>ReactJS</strong> e <strong>VueJS</strong> no front-end, explorando o melhor de cada ecossistema para entregar interfaces modernas, responsivas e bem estruturadas. Tenho forte afinidade com <strong>CSS</strong>, utilizando tecnologias como <strong>Sass</strong>, <strong>styled-components</strong> e <strong>TailwindCSS</strong> para construir layouts limpos e escaláveis.
+</p>
 
-<p align="left">Atualmente, atuo como desenvolvedor full-stack pleno, aplicando meu conhecimento em diversas camadas de aplicações.</p>
+<p align="left">
+No back-end, aplico conceitos sólidos de arquitetura e integração de sistemas, buscando sempre desenvolver aplicações completas, performáticas e alinhadas às necessidades do negócio.
+</p>
 
 ###
 
